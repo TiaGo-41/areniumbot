@@ -88,4 +88,4 @@ stop_button.pack()
 window.mainloop()
 
 # Démarrer le bot Discord (dans un thread séparé ou async)
-bot.run("MTE1NzY4NTIxNTgyOTk1NDcyMQ.GHmTFw.jf2ltfV1N9zgQ78rj1Mk2N0sK4-ewsGLOKJCMg")
+bot.run("TOKEN")
