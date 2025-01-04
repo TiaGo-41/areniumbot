@@ -1,3 +1,5 @@
+#le gui ne fonctionne pas (l'état du bot ne change pas)
+
 import tkinter as tk
 from tkinter import ttk
 from bot import bot_status, bot_activity, stop_bot, run_bot
